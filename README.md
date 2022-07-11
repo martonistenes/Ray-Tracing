@@ -1,1 +1,3 @@
 # Ray-Tracing
+
+![](Raytrace.png)
